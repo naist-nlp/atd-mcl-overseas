@@ -171,7 +171,7 @@ Example:
 
 |#document_id|entity_id|mention_id|best_ref_type|best_ref_url|best_ref_query|best_ref_status|best_ref_area_type|second_A_ref_type|second_A_ref_url|second_A_ref_query|second_A_ref_status|second_A_ref_area_type|second_B_ref_type|second_B_ref_url|second_B_ref_query|second_B_ref_status|second_B_ref_area_type|entity_type|span|normalized_name|mention_text|ref_hie_amb|sentence_id|sentence_text|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|00711|E001|-|OSM|https://www.openstreetmap.org/relation/571805|Palau||overseas||||||||||LOC|-|Republic of Palau;Palau|-|-|
+|00711|E001|-|OSM|https://www.openstreetmap.org/relation/571805|Palau||overseas||||||||||-|LOC|-|Republic of Palau;Palau|-|-|
 |00711|-|E001:M001|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|LOC_NAME|0:3|-|パラオ||001:001-01|パラオではオプショナルツアーに参加しないとほとんど観光できません。|
 
 Notes:
