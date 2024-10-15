@@ -2,7 +2,8 @@
 
 ## How to Restore the ATD-MCL-Overseas Data
 
-1. Install necessary Python libraries, for example, using `pip install -r requirements.txt`.
+Requirements: Python >= 3.8.0
+
 1. Obtain the Arukikata Travelogue Dataset (ATD) original data (`data.zip`) from the NII IDR site <https://www.nii.ac.jp/dsc/idr/arukikata/>.
 1. Decompress `data.zip` and then move `data` directory to under `atd` directory (or create a symbolic link to `data` directory in `atd` directory).
 1. Excute `bin/gen_full_data_json.sh`.
