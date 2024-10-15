@@ -1,0 +1,1187 @@
+{
+  "01911": {
+    "sections": {
+      "001": {
+        "sentence_ids": [
+          "001-01",
+          "001-02",
+          "001-03",
+          "001-04"
+        ]
+      },
+      "002": {
+        "sentence_ids": [
+          "002-01",
+          "002-02",
+          "002-03",
+          "002-04",
+          "002-05",
+          "002-06",
+          "002-07"
+        ]
+      },
+      "003": {
+        "sentence_ids": [
+          "003-01",
+          "003-02",
+          "003-03",
+          "003-04"
+        ]
+      },
+      "004": {
+        "sentence_ids": [
+          "004-01",
+          "004-02"
+        ]
+      },
+      "005": {
+        "sentence_ids": [
+          "005-01",
+          "005-02",
+          "005-03",
+          "005-04",
+          "005-05"
+        ]
+      },
+      "006": {
+        "sentence_ids": [
+          "006-01",
+          "006-02",
+          "006-03"
+        ]
+      }
+    },
+    "sentences": {
+      "001-01": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          0,
+          22
+        ],
+        "text": "",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "001-02": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          22,
+          48
+        ],
+        "text": "",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "001-03": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          48,
+          63
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "001-04": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          63,
+          97
+        ],
+        "text": "",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "002-01": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          0,
+          22
+        ],
+        "text": "",
+        "mention_ids": [
+          "M005",
+          "M006"
+        ]
+      },
+      "002-02": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          22,
+          38
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "002-03": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          38,
+          66
+        ],
+        "text": "",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "002-04": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          66,
+          96
+        ],
+        "text": "",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "002-05": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          96,
+          147
+        ],
+        "text": "",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "002-06": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          147,
+          178
+        ],
+        "text": "",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "002-07": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          178,
+          209
+        ],
+        "text": "",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "003-01": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          0,
+          52
+        ],
+        "text": "",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "003-02": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          52,
+          140
+        ],
+        "text": "",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "003-03": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          140,
+          154
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "003-04": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          154,
+          166
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "004-01": {
+        "section_id": "004",
+        "span_in_orig_text": [
+          0,
+          30
+        ],
+        "text": "",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "004-02": {
+        "section_id": "004",
+        "span_in_orig_text": [
+          30,
+          157
+        ],
+        "text": "",
+        "mention_ids": [
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036"
+        ]
+      },
+      "005-01": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          0,
+          32
+        ],
+        "text": "",
+        "mention_ids": [
+          "M037",
+          "M038",
+          "M039",
+          "M040"
+        ]
+      },
+      "005-02": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          32,
+          63
+        ],
+        "text": "",
+        "mention_ids": [
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "005-03": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          63,
+          105
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "005-04": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          105,
+          148
+        ],
+        "text": "",
+        "mention_ids": [
+          "M044",
+          "M045"
+        ]
+      },
+      "005-05": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          148,
+          181
+        ],
+        "text": "",
+        "mention_ids": [
+          "M046"
+        ]
+      },
+      "006-01": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          0,
+          33
+        ],
+        "text": "",
+        "mention_ids": [
+          "M047",
+          "M048",
+          "M049"
+        ]
+      },
+      "006-02": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          33,
+          75
+        ],
+        "text": "",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "006-03": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          75,
+          114
+        ],
+        "text": "",
+        "mention_ids": [
+          "M051"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001-01",
+        "span": [
+          5,
+          12
+        ],
+        "text": "",
+        "entity_type": "LOC_OR_FAC",
+        "entity_id": "E001"
+      },
+      "M002": {
+        "sentence_id": "001-01",
+        "span": [
+          16,
+          19
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E001"
+      },
+      "M003": {
+        "sentence_id": "001-02",
+        "span": [
+          20,
+          22
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E001"
+      },
+      "M004": {
+        "sentence_id": "001-04",
+        "span": [
+          5,
+          10
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E002"
+      },
+      "M005": {
+        "sentence_id": "002-01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E003"
+      },
+      "M006": {
+        "sentence_id": "002-01",
+        "span": [
+          14,
+          19
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E004"
+      },
+      "M007": {
+        "sentence_id": "002-03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E005"
+      },
+      "M008": {
+        "sentence_id": "002-03",
+        "span": [
+          3,
+          8
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E004"
+      },
+      "M009": {
+        "sentence_id": "002-04",
+        "span": [
+          9,
+          11
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E005"
+      },
+      "M010": {
+        "sentence_id": "002-05",
+        "span": [
+          4,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E003"
+      },
+      "M011": {
+        "sentence_id": "002-05",
+        "span": [
+          11,
+          16
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E004"
+      },
+      "M012": {
+        "sentence_id": "002-05",
+        "span": [
+          20,
+          23
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": "E006"
+      },
+      "M013": {
+        "sentence_id": "002-05",
+        "span": [
+          31,
+          33
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": "E007"
+      },
+      "M014": {
+        "sentence_id": "002-06",
+        "span": [
+          5,
+          7
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E008"
+      },
+      "M015": {
+        "sentence_id": "002-06",
+        "span": [
+          8,
+          10
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E009"
+      },
+      "M016": {
+        "sentence_id": "002-06",
+        "span": [
+          14,
+          16
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E010"
+      },
+      "M017": {
+        "sentence_id": "002-07",
+        "span": [
+          15,
+          17
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E008"
+      },
+      "M018": {
+        "sentence_id": "003-01",
+        "span": [
+          4,
+          6
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E011"
+      },
+      "M019": {
+        "sentence_id": "003-02",
+        "span": [
+          27,
+          31
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E012"
+      },
+      "M020": {
+        "sentence_id": "003-02",
+        "span": [
+          47,
+          49
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E013"
+      },
+      "M021": {
+        "sentence_id": "003-02",
+        "span": [
+          82,
+          85
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E014"
+      },
+      "M022": {
+        "sentence_id": "004-01",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E008"
+      },
+      "M023": {
+        "sentence_id": "004-01",
+        "span": [
+          4,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E015"
+      },
+      "M024": {
+        "sentence_id": "004-01",
+        "span": [
+          10,
+          17
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E016"
+      },
+      "M025": {
+        "sentence_id": "004-01",
+        "span": [
+          21,
+          23
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M026": {
+        "sentence_id": "004-01",
+        "span": [
+          24,
+          29
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E017"
+      },
+      "M027": {
+        "sentence_id": "004-02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E008"
+      },
+      "M028": {
+        "sentence_id": "004-02",
+        "span": [
+          6,
+          9
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E018"
+      },
+      "M029": {
+        "sentence_id": "004-02",
+        "span": [
+          13,
+          16
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E019"
+      },
+      "M030": {
+        "sentence_id": "004-02",
+        "span": [
+          26,
+          29
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E018"
+      },
+      "M031": {
+        "sentence_id": "004-02",
+        "span": [
+          34,
+          37
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E020"
+      },
+      "M032": {
+        "sentence_id": "004-02",
+        "span": [
+          38,
+          41
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E018"
+      },
+      "M033": {
+        "sentence_id": "004-02",
+        "span": [
+          53,
+          55
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E021"
+      },
+      "M034": {
+        "sentence_id": "004-02",
+        "span": [
+          72,
+          75
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E019"
+      },
+      "M035": {
+        "sentence_id": "004-02",
+        "span": [
+          76,
+          78
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E009"
+      },
+      "M036": {
+        "sentence_id": "004-02",
+        "span": [
+          107,
+          109
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E009"
+      },
+      "M037": {
+        "sentence_id": "005-01",
+        "span": [
+          3,
+          4
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E008"
+      },
+      "M038": {
+        "sentence_id": "005-01",
+        "span": [
+          7,
+          12
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E015"
+      },
+      "M039": {
+        "sentence_id": "005-01",
+        "span": [
+          13,
+          20
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E016"
+      },
+      "M040": {
+        "sentence_id": "005-01",
+        "span": [
+          24,
+          31
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E022"
+      },
+      "M041": {
+        "sentence_id": "005-02",
+        "span": [
+          3,
+          5
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E022"
+      },
+      "M042": {
+        "sentence_id": "005-02",
+        "span": [
+          6,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": null,
+        "generic": true
+      },
+      "M043": {
+        "sentence_id": "005-02",
+        "span": [
+          19,
+          21
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E023"
+      },
+      "M044": {
+        "sentence_id": "005-04",
+        "span": [
+          15,
+          17
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E022"
+      },
+      "M045": {
+        "sentence_id": "005-04",
+        "span": [
+          32,
+          34
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E021"
+      },
+      "M046": {
+        "sentence_id": "005-05",
+        "span": [
+          22,
+          24
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E022"
+      },
+      "M047": {
+        "sentence_id": "006-01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E019"
+      },
+      "M048": {
+        "sentence_id": "006-01",
+        "span": [
+          5,
+          9
+        ],
+        "text": "",
+        "entity_type": "LOC_OR_FAC",
+        "entity_id": "E024"
+      },
+      "M049": {
+        "sentence_id": "006-01",
+        "span": [
+          12,
+          14
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E024"
+      },
+      "M050": {
+        "sentence_id": "006-02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E021"
+      },
+      "M051": {
+        "sentence_id": "006-03",
+        "span": [
+          4,
+          6
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E021"
+      }
+    },
+    "entities": {
+      "E001": {
+        "original_entity_id": "E001",
+        "normalized_name": "Qingdao International Sailing Centre",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/5329362105",
+        "best_ref_query": "青岛奥林匹克帆船中心",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "E002": {
+        "original_entity_id": "E002",
+        "normalized_name": "有料トイレ",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M004"
+        ]
+      },
+      "E003": {
+        "original_entity_id": "E003",
+        "normalized_name": "Hotel Equatorial Qingdao",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "Other",
+        "best_ref_url": "http://travel.explore.ne.jp/hotel/hotels/6250/",
+        "best_ref_query": "Hotel Equatorial Qingdao",
+        "best_ref_area_type": "FOREIGN",
+        "best_ref_status": "CLOSED",
+        "member_mention_ids": [
+          "M005",
+          "M010"
+        ]
+      },
+      "E004": {
+        "original_entity_id": "E004",
+        "normalized_name": "Carrefour",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/241627577",
+        "best_ref_query": "<MAP>",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M006",
+          "M008",
+          "M011"
+        ]
+      },
+      "E005": {
+        "original_entity_id": "E005",
+        "normalized_name": "Municipality of Shanghai;Shanghai",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/913067",
+        "best_ref_query": "Shanghai",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M007",
+          "M009"
+        ]
+      },
+      "E006": {
+        "original_entity_id": "E006",
+        "normalized_name": "地下道",
+        "entity_type_merged": "LINE",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M012"
+        ]
+      },
+      "E007": {
+        "original_entity_id": "E007",
+        "normalized_name": "Hong Kong Middle Road",
+        "entity_type_merged": "LINE",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/54225014",
+        "best_ref_query": "<MAP>",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M013"
+        ]
+      },
+      "E008": {
+        "original_entity_id": "E008",
+        "normalized_name": "Qingdao",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/3469133",
+        "best_ref_query": "Qingdao",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M014",
+          "M017",
+          "M022",
+          "M027",
+          "M037"
+        ]
+      },
+      "E009": {
+        "original_entity_id": "E009",
+        "normalized_name": "People's Republic of China;China",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/270056",
+        "best_ref_query": "China",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M015",
+          "M035",
+          "M036"
+        ]
+      },
+      "E010": {
+        "original_entity_id": "E010",
+        "normalized_name": "都市",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M016"
+        ]
+      },
+      "E011": {
+        "original_entity_id": "E011",
+        "normalized_name": "ビル",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M018"
+        ]
+      },
+      "E012": {
+        "original_entity_id": "E012",
+        "normalized_name": "教育施設",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M019"
+        ]
+      },
+      "E013": {
+        "original_entity_id": "E013",
+        "normalized_name": "建物",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M020"
+        ]
+      },
+      "E014": {
+        "original_entity_id": "E014",
+        "normalized_name": "区役所",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M021"
+        ]
+      },
+      "E015": {
+        "original_entity_id": "E015",
+        "normalized_name": "Best Western Premier Qingdao Kilin Crown Hotel",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/4368932664",
+        "best_ref_query": "Qingdao Kilin Crown Hotel",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M023",
+          "M038"
+        ]
+      },
+      "E016": {
+        "original_entity_id": "E016",
+        "normalized_name": "Restaurant with a view",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/node/4368932664",
+        "best_ref_query": "Qingdao Kilin Crown Hotel",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M024",
+          "M039"
+        ]
+      },
+      "E017": {
+        "original_entity_id": "E017",
+        "normalized_name": "高級住宅街",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M026"
+        ]
+      },
+      "E018": {
+        "original_entity_id": "E018",
+        "normalized_name": "Old town",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/relation/3469133",
+        "best_ref_query": "Qingdao",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M028",
+          "M030",
+          "M032"
+        ]
+      },
+      "E019": {
+        "original_entity_id": "E019",
+        "normalized_name": "New town",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/relation/3469133",
+        "best_ref_query": "Qingdao",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M029",
+          "M034",
+          "M047"
+        ]
+      },
+      "E020": {
+        "original_entity_id": "E020",
+        "normalized_name": "Federal Republic of Germany;Germany",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/51477",
+        "best_ref_query": "Germany",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M031"
+        ]
+      },
+      "E021": {
+        "original_entity_id": "E021",
+        "normalized_name": "日本国;日本",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/382313",
+        "best_ref_query": "日本",
+        "best_ref_area_type": "JAPAN",
+        "member_mention_ids": [
+          "M033",
+          "M045",
+          "M050",
+          "M051"
+        ]
+      },
+      "E022": {
+        "original_entity_id": "E022",
+        "normalized_name": "青島ビール公園",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M040",
+          "M041",
+          "M044",
+          "M046"
+        ]
+      },
+      "E023": {
+        "original_entity_id": "E023",
+        "normalized_name": "遊具",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M043"
+        ]
+      },
+      "E024": {
+        "original_entity_id": "E024",
+        "normalized_name": "観光名所",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M048",
+          "M049"
+        ]
+      }
+    }
+  }
+}

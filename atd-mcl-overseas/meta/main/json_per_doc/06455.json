@@ -1,0 +1,567 @@
+{
+  "06455": {
+    "sections": {
+      "001": {
+        "sentence_ids": [
+          "001-01",
+          "001-02",
+          "001-03",
+          "001-04",
+          "001-05",
+          "001-06"
+        ]
+      },
+      "002": {
+        "sentence_ids": [
+          "002-01",
+          "002-02"
+        ]
+      },
+      "003": {
+        "sentence_ids": [
+          "003-01",
+          "003-02",
+          "003-03"
+        ]
+      }
+    },
+    "sentences": {
+      "001-01": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          0,
+          20
+        ],
+        "text": "",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "001-02": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          20,
+          96
+        ],
+        "text": "",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "001-03": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          96,
+          154
+        ],
+        "text": "",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "001-04": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          154,
+          182
+        ],
+        "text": "",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "001-05": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          182,
+          214
+        ],
+        "text": "",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "001-06": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          215,
+          280
+        ],
+        "text": "",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "002-01": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          0,
+          53
+        ],
+        "text": "",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "002-02": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          53,
+          107
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "003-01": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          0,
+          23
+        ],
+        "text": "",
+        "mention_ids": [
+          "M018",
+          "M019"
+        ]
+      },
+      "003-02": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          23,
+          75
+        ],
+        "text": "",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "003-03": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          75,
+          160
+        ],
+        "text": "",
+        "mention_ids": [
+          "M023",
+          "M024",
+          "M025"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001-01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E001"
+      },
+      "M002": {
+        "sentence_id": "001-02",
+        "span": [
+          4,
+          5
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E002"
+      },
+      "M003": {
+        "sentence_id": "001-02",
+        "span": [
+          16,
+          19
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E003"
+      },
+      "M004": {
+        "sentence_id": "001-02",
+        "span": [
+          33,
+          35
+        ],
+        "text": "",
+        "entity_type": "LOC_OR_FAC",
+        "entity_id": "E004"
+      },
+      "M005": {
+        "sentence_id": "001-03",
+        "span": [
+          22,
+          25
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E003"
+      },
+      "M006": {
+        "sentence_id": "001-03",
+        "span": [
+          28,
+          30
+        ],
+        "text": "",
+        "entity_type": "DEICTIC",
+        "entity_id": "E003"
+      },
+      "M007": {
+        "sentence_id": "001-03",
+        "span": [
+          33,
+          35
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": "E005"
+      },
+      "M008": {
+        "sentence_id": "001-03",
+        "span": [
+          36,
+          38
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E006"
+      },
+      "M009": {
+        "sentence_id": "001-04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E003"
+      },
+      "M010": {
+        "sentence_id": "001-05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E003"
+      },
+      "M011": {
+        "sentence_id": "001-05",
+        "span": [
+          9,
+          11
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E006"
+      },
+      "M012": {
+        "sentence_id": "001-05",
+        "span": [
+          12,
+          14
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E007"
+      },
+      "M013": {
+        "sentence_id": "001-05",
+        "span": [
+          18,
+          20
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M014": {
+        "sentence_id": "001-06",
+        "span": [
+          0,
+          9
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E002"
+      },
+      "M015": {
+        "sentence_id": "001-06",
+        "span": [
+          11,
+          12
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E002"
+      },
+      "M016": {
+        "sentence_id": "002-01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E001"
+      },
+      "M017": {
+        "sentence_id": "002-01",
+        "span": [
+          20,
+          28
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E008"
+      },
+      "M018": {
+        "sentence_id": "003-01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E009"
+      },
+      "M019": {
+        "sentence_id": "003-01",
+        "span": [
+          7,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E010"
+      },
+      "M020": {
+        "sentence_id": "003-02",
+        "span": [
+          5,
+          6
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E010"
+      },
+      "M021": {
+        "sentence_id": "003-02",
+        "span": [
+          20,
+          27
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E011"
+      },
+      "M022": {
+        "sentence_id": "003-02",
+        "span": [
+          28,
+          30
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E011"
+      },
+      "M023": {
+        "sentence_id": "003-03",
+        "span": [
+          18,
+          19
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E011"
+      },
+      "M024": {
+        "sentence_id": "003-03",
+        "span": [
+          45,
+          47
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M025": {
+        "sentence_id": "003-03",
+        "span": [
+          63,
+          65
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "original_entity_id": "E001",
+        "normalized_name": "City of Paris;Paris",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/71525",
+        "best_ref_query": "Paris",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M001",
+          "M016"
+        ]
+      },
+      "E002": {
+        "original_entity_id": "E002",
+        "normalized_name": "Saint Michael's Mount;Mont Saint-Michel",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/211285890",
+        "best_ref_query": "Mont Saint-Michel",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M002",
+          "M014",
+          "M015"
+        ]
+      },
+      "E003": {
+        "original_entity_id": "E003",
+        "normalized_name": "Abbey of Mont-Saint-Michel",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/322437078",
+        "best_ref_query": "Abbaye du Mont-Saint-Michel",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M003",
+          "M005",
+          "M006",
+          "M009",
+          "M010"
+        ]
+      },
+      "E004": {
+        "original_entity_id": "E004",
+        "normalized_name": "名所",
+        "entity_type_merged": "UNK",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M004"
+        ]
+      },
+      "E005": {
+        "original_entity_id": "E005",
+        "normalized_name": "小道",
+        "entity_type_merged": "LINE",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M007"
+        ]
+      },
+      "E006": {
+        "original_entity_id": "E006",
+        "normalized_name": "教会",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M008",
+          "M011"
+        ]
+      },
+      "E007": {
+        "original_entity_id": "E007",
+        "normalized_name": "お店",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M012"
+        ]
+      },
+      "E008": {
+        "original_entity_id": "E008",
+        "normalized_name": "Sainte-Chapelle",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/3344870",
+        "best_ref_query": "Sainte-Chapelle",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M017"
+        ]
+      },
+      "E009": {
+        "original_entity_id": "E009",
+        "normalized_name": "Centre-Val de Loire",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/8640",
+        "best_ref_query": "Centre-Val de Loire",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M018"
+        ]
+      },
+      "E010": {
+        "original_entity_id": "E010",
+        "normalized_name": "古城",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M019",
+          "M020"
+        ]
+      },
+      "E011": {
+        "original_entity_id": "E011",
+        "normalized_name": "Chambord Castle",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/240990589",
+        "best_ref_query": "Chambord Castle",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M021",
+          "M022",
+          "M023"
+        ]
+      }
+    }
+  }
+}

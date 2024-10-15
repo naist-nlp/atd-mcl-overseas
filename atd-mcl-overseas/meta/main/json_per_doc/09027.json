@@ -1,0 +1,1423 @@
+{
+  "09027": {
+    "sections": {
+      "001": {
+        "sentence_ids": [
+          "001-01",
+          "001-02"
+        ]
+      },
+      "002": {
+        "sentence_ids": [
+          "002-01",
+          "002-02",
+          "002-03"
+        ]
+      },
+      "003": {
+        "sentence_ids": [
+          "003-01"
+        ]
+      },
+      "004": {
+        "sentence_ids": [
+          "004-01",
+          "004-02"
+        ]
+      },
+      "005": {
+        "sentence_ids": [
+          "005-01",
+          "005-02",
+          "005-03"
+        ]
+      },
+      "006": {
+        "sentence_ids": [
+          "006-01",
+          "006-02"
+        ]
+      },
+      "007": {
+        "sentence_ids": [
+          "007-01",
+          "007-02"
+        ]
+      },
+      "008": {
+        "sentence_ids": [
+          "008-01",
+          "008-02",
+          "008-03"
+        ]
+      },
+      "009": {
+        "sentence_ids": [
+          "009-01",
+          "009-02",
+          "009-03"
+        ]
+      },
+      "010": {
+        "sentence_ids": [
+          "010-01"
+        ]
+      },
+      "011": {
+        "sentence_ids": [
+          "011-01"
+        ]
+      },
+      "012": {
+        "sentence_ids": [
+          "012-01",
+          "012-02",
+          "012-03"
+        ]
+      },
+      "013": {
+        "sentence_ids": [
+          "013-01",
+          "013-02",
+          "013-03"
+        ]
+      }
+    },
+    "sentences": {
+      "001-01": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          0,
+          42
+        ],
+        "text": "",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "001-02": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          42,
+          61
+        ],
+        "text": "",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "002-01": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          0,
+          33
+        ],
+        "text": "",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "002-02": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          33,
+          71
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "002-03": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          71,
+          99
+        ],
+        "text": "",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "003-01": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          0,
+          56
+        ],
+        "text": "",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "004-01": {
+        "section_id": "004",
+        "span_in_orig_text": [
+          0,
+          52
+        ],
+        "text": "",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "004-02": {
+        "section_id": "004",
+        "span_in_orig_text": [
+          52,
+          83
+        ],
+        "text": "",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "005-01": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          0,
+          12
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "005-02": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          12,
+          57
+        ],
+        "text": "",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "005-03": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          57,
+          80
+        ],
+        "text": "",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "006-01": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          0,
+          71
+        ],
+        "text": "",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "006-02": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          71,
+          93
+        ],
+        "text": "",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "007-01": {
+        "section_id": "007",
+        "span_in_orig_text": [
+          0,
+          66
+        ],
+        "text": "",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033"
+        ]
+      },
+      "007-02": {
+        "section_id": "007",
+        "span_in_orig_text": [
+          66,
+          95
+        ],
+        "text": "",
+        "mention_ids": [
+          "M034",
+          "M035"
+        ]
+      },
+      "008-01": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          0,
+          14
+        ],
+        "text": "",
+        "mention_ids": [
+          "M036",
+          "M037"
+        ]
+      },
+      "008-02": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          14,
+          45
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "008-03": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          45,
+          76
+        ],
+        "text": "",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "009-01": {
+        "section_id": "009",
+        "span_in_orig_text": [
+          0,
+          19
+        ],
+        "text": "",
+        "mention_ids": [
+          "M039",
+          "M040"
+        ]
+      },
+      "009-02": {
+        "section_id": "009",
+        "span_in_orig_text": [
+          19,
+          58
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "009-03": {
+        "section_id": "009",
+        "span_in_orig_text": [
+          58,
+          104
+        ],
+        "text": "",
+        "mention_ids": [
+          "M041",
+          "M042"
+        ]
+      },
+      "010-01": {
+        "section_id": "010",
+        "span_in_orig_text": [
+          0,
+          89
+        ],
+        "text": "",
+        "mention_ids": [
+          "M043",
+          "M044",
+          "M045",
+          "M046"
+        ]
+      },
+      "011-01": {
+        "section_id": "011",
+        "span_in_orig_text": [
+          0,
+          57
+        ],
+        "text": "",
+        "mention_ids": [
+          "M047",
+          "M048",
+          "M049",
+          "M050"
+        ]
+      },
+      "012-01": {
+        "section_id": "012",
+        "span_in_orig_text": [
+          0,
+          32
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "012-02": {
+        "section_id": "012",
+        "span_in_orig_text": [
+          32,
+          69
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "012-03": {
+        "section_id": "012",
+        "span_in_orig_text": [
+          69,
+          99
+        ],
+        "text": "",
+        "mention_ids": [
+          "M051",
+          "M052"
+        ]
+      },
+      "013-01": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          0,
+          28
+        ],
+        "text": "",
+        "mention_ids": [
+          "M053",
+          "M054"
+        ]
+      },
+      "013-02": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          28,
+          64
+        ],
+        "text": "",
+        "mention_ids": [
+          "M055",
+          "M056"
+        ]
+      },
+      "013-03": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          64,
+          76
+        ],
+        "text": "",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001-01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E001"
+      },
+      "M002": {
+        "sentence_id": "001-01",
+        "span": [
+          14,
+          22
+        ],
+        "text": "",
+        "entity_type": "LINE_NAME",
+        "entity_id": "E002"
+      },
+      "M003": {
+        "sentence_id": "001-01",
+        "span": [
+          23,
+          29
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E003",
+        "ref_hie_amb": true
+      },
+      "M004": {
+        "sentence_id": "001-01",
+        "span": [
+          34,
+          40
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E004",
+        "ref_hie_amb": true
+      },
+      "M005": {
+        "sentence_id": "001-02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "",
+        "entity_type": "LINE_NAME",
+        "entity_id": "E002"
+      },
+      "M006": {
+        "sentence_id": "002-01",
+        "span": [
+          8,
+          15
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E004"
+      },
+      "M007": {
+        "sentence_id": "002-03",
+        "span": [
+          6,
+          8
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E005"
+      },
+      "M008": {
+        "sentence_id": "003-01",
+        "span": [
+          4,
+          11
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E004"
+      },
+      "M009": {
+        "sentence_id": "003-01",
+        "span": [
+          18,
+          26
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E006"
+      },
+      "M010": {
+        "sentence_id": "003-01",
+        "span": [
+          27,
+          34
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E007"
+      },
+      "M011": {
+        "sentence_id": "003-01",
+        "span": [
+          35,
+          40
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E008"
+      },
+      "M012": {
+        "sentence_id": "004-01",
+        "span": [
+          12,
+          17
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E009"
+      },
+      "M013": {
+        "sentence_id": "004-02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E009"
+      },
+      "M014": {
+        "sentence_id": "005-02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "",
+        "entity_type": "LINE_NAME",
+        "entity_id": "E010"
+      },
+      "M015": {
+        "sentence_id": "005-02",
+        "span": [
+          29,
+          36
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E011"
+      },
+      "M016": {
+        "sentence_id": "005-03",
+        "span": [
+          5,
+          8
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E011"
+      },
+      "M017": {
+        "sentence_id": "006-01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E005"
+      },
+      "M018": {
+        "sentence_id": "006-01",
+        "span": [
+          4,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E012"
+      },
+      "M019": {
+        "sentence_id": "006-01",
+        "span": [
+          10,
+          15
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E013"
+      },
+      "M020": {
+        "sentence_id": "006-01",
+        "span": [
+          18,
+          33
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E012"
+      },
+      "M021": {
+        "sentence_id": "006-01",
+        "span": [
+          34,
+          37
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E012"
+      },
+      "M022": {
+        "sentence_id": "006-01",
+        "span": [
+          41,
+          43
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E005"
+      },
+      "M023": {
+        "sentence_id": "006-02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E005"
+      },
+      "M024": {
+        "sentence_id": "006-02",
+        "span": [
+          15,
+          18
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E012"
+      },
+      "M025": {
+        "sentence_id": "007-01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E012"
+      },
+      "M026": {
+        "sentence_id": "007-01",
+        "span": [
+          5,
+          8
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E014"
+      },
+      "M027": {
+        "sentence_id": "007-01",
+        "span": [
+          10,
+          16
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M028": {
+        "sentence_id": "007-01",
+        "span": [
+          28,
+          30
+        ],
+        "text": "",
+        "entity_type": "DEICTIC",
+        "entity_id": "E015"
+      },
+      "M029": {
+        "sentence_id": "007-01",
+        "span": [
+          34,
+          37
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E014"
+      },
+      "M030": {
+        "sentence_id": "007-01",
+        "span": [
+          39,
+          41
+        ],
+        "text": "",
+        "entity_type": "DEICTIC",
+        "entity_id": "E014"
+      },
+      "M031": {
+        "sentence_id": "007-01",
+        "span": [
+          44,
+          48
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M032": {
+        "sentence_id": "007-01",
+        "span": [
+          49,
+          55
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E016"
+      },
+      "M033": {
+        "sentence_id": "007-01",
+        "span": [
+          59,
+          64
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E017"
+      },
+      "M034": {
+        "sentence_id": "007-02",
+        "span": [
+          6,
+          8
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E018"
+      },
+      "M035": {
+        "sentence_id": "007-02",
+        "span": [
+          19,
+          25
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E016"
+      },
+      "M036": {
+        "sentence_id": "008-01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E017"
+      },
+      "M037": {
+        "sentence_id": "008-01",
+        "span": [
+          8,
+          13
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E019"
+      },
+      "M038": {
+        "sentence_id": "008-03",
+        "span": [
+          13,
+          15
+        ],
+        "text": "",
+        "entity_type": "DEICTIC",
+        "entity_id": "E019"
+      },
+      "M039": {
+        "sentence_id": "009-01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E020"
+      },
+      "M040": {
+        "sentence_id": "009-01",
+        "span": [
+          14,
+          16
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E021"
+      },
+      "M041": {
+        "sentence_id": "009-03",
+        "span": [
+          14,
+          16
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E022"
+      },
+      "M042": {
+        "sentence_id": "009-03",
+        "span": [
+          36,
+          38
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E021"
+      },
+      "M043": {
+        "sentence_id": "010-01",
+        "span": [
+          0,
+          11
+        ],
+        "text": "",
+        "entity_type": "LINE_NAME",
+        "entity_id": "E023"
+      },
+      "M044": {
+        "sentence_id": "010-01",
+        "span": [
+          19,
+          22
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E024"
+      },
+      "M045": {
+        "sentence_id": "010-01",
+        "span": [
+          38,
+          40
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E024"
+      },
+      "M046": {
+        "sentence_id": "010-01",
+        "span": [
+          45,
+          47
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E024"
+      },
+      "M047": {
+        "sentence_id": "011-01",
+        "span": [
+          9,
+          13
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E025"
+      },
+      "M048": {
+        "sentence_id": "011-01",
+        "span": [
+          17,
+          26
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E026"
+      },
+      "M049": {
+        "sentence_id": "011-01",
+        "span": [
+          27,
+          35
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E027"
+      },
+      "M050": {
+        "sentence_id": "011-01",
+        "span": [
+          49,
+          51
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E028"
+      },
+      "M051": {
+        "sentence_id": "012-03",
+        "span": [
+          15,
+          18
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E029"
+      },
+      "M052": {
+        "sentence_id": "012-03",
+        "span": [
+          21,
+          22
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E029"
+      },
+      "M053": {
+        "sentence_id": "013-01",
+        "span": [
+          5,
+          13
+        ],
+        "text": "",
+        "entity_type": "LINE_NAME",
+        "entity_id": "E002"
+      },
+      "M054": {
+        "sentence_id": "013-01",
+        "span": [
+          14,
+          20
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E003",
+        "ref_hie_amb": true
+      },
+      "M055": {
+        "sentence_id": "013-02",
+        "span": [
+          10,
+          18
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E030"
+      },
+      "M056": {
+        "sentence_id": "013-02",
+        "span": [
+          28,
+          30
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E030"
+      }
+    },
+    "entities": {
+      "E001": {
+        "original_entity_id": "E001",
+        "normalized_name": "中部国際空港;セントレア",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/54717812",
+        "best_ref_query": "セントレア",
+        "best_ref_area_type": "JAPAN",
+        "member_mention_ids": [
+          "M001"
+        ]
+      },
+      "E002": {
+        "original_entity_id": "E002",
+        "normalized_name": "Singapore Airlines",
+        "entity_type_merged": "LINE",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "WD",
+        "best_ref_url": "https://www.wikidata.org/wiki/Q32245",
+        "best_ref_query": "シンガポール航空",
+        "best_ref_area_type": "UNK",
+        "member_mention_ids": [
+          "M002",
+          "M005",
+          "M053"
+        ]
+      },
+      "E003": {
+        "original_entity_id": "E003",
+        "normalized_name": "Republic of Singapore;Singapore",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/536780",
+        "best_ref_query": "Singapore",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M003",
+          "M054"
+        ]
+      },
+      "E004": {
+        "original_entity_id": "E004",
+        "normalized_name": "City of Denpasar;Denpasar",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/7789828",
+        "best_ref_query": "デンパサール",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M004",
+          "M006",
+          "M008"
+        ]
+      },
+      "E005": {
+        "original_entity_id": "E005",
+        "normalized_name": "Bali",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/2130352",
+        "best_ref_query": "バリ島",
+        "best_ref_area_type": "FOREIGN",
+        "second_A_ref_type": "OSM",
+        "second_A_ref_url": "https://www.openstreetmap.org/relation/1615621",
+        "second_A_ref_query": "bali",
+        "second_A_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M007",
+          "M017",
+          "M022",
+          "M023"
+        ]
+      },
+      "E006": {
+        "original_entity_id": "E006",
+        "normalized_name": "デンパサール市場",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M009"
+        ]
+      },
+      "E007": {
+        "original_entity_id": "E007",
+        "normalized_name": "Jagatnatha Temple Bali",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/311676979",
+        "best_ref_query": "Pura Jagatnatha Denpasar",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M010"
+        ]
+      },
+      "E008": {
+        "original_entity_id": "E008",
+        "normalized_name": "Bali Provincial State Museum;Bali Museum",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/311676978",
+        "best_ref_query": "Bali Museum",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M011"
+        ]
+      },
+      "E009": {
+        "original_entity_id": "E009",
+        "normalized_name": "レストラン",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M012",
+          "M013"
+        ]
+      },
+      "E010": {
+        "original_entity_id": "E010",
+        "normalized_name": "Jalan Legian;Legian Road",
+        "entity_type_merged": "LINE",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "WD",
+        "best_ref_url": "https://www.wikidata.org/wiki/Q6126330",
+        "best_ref_query": "Jalan Legian Bali",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M014"
+        ]
+      },
+      "E011": {
+        "original_entity_id": "E011",
+        "normalized_name": "Legian Beach",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/30904902",
+        "best_ref_query": "Legian Beach",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M015",
+          "M016"
+        ]
+      },
+      "E012": {
+        "original_entity_id": "E012",
+        "normalized_name": "Bali Tropic Resort & Spa",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/node/1821357995",
+        "best_ref_query": "Bali Tropic Resort",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M018",
+          "M020",
+          "M021",
+          "M024",
+          "M025"
+        ]
+      },
+      "E013": {
+        "original_entity_id": "E013",
+        "normalized_name": "Nusa Dua",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/429572571",
+        "best_ref_query": "Nusa Dua",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M019"
+        ]
+      },
+      "E014": {
+        "original_entity_id": "E014",
+        "normalized_name": "Ubud",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/291986732",
+        "best_ref_query": "Ubud",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M026",
+          "M029",
+          "M030"
+        ]
+      },
+      "E015": {
+        "original_entity_id": "E015",
+        "normalized_name": "それ",
+        "entity_type_merged": "UNK",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M028"
+        ]
+      },
+      "E016": {
+        "original_entity_id": "E016",
+        "normalized_name": "Tegallalang Rice Terrace",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/11132422005",
+        "best_ref_query": "Rice Terrace Tegallalang",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M032",
+          "M035"
+        ]
+      },
+      "E017": {
+        "original_entity_id": "E017",
+        "normalized_name": "Tegallalang",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/1308672951",
+        "best_ref_query": "Tegallalang",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M033",
+          "M036"
+        ]
+      },
+      "E018": {
+        "original_entity_id": "E016-mod",
+        "normalized_name": "Tegallalang Rice Terrace",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/node/11132422005",
+        "best_ref_query": "Rice Terrace Tegallalang",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M034"
+        ]
+      },
+      "E019": {
+        "original_entity_id": "E018",
+        "normalized_name": "レストラン",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M037",
+          "M038"
+        ]
+      },
+      "E020": {
+        "original_entity_id": "E019",
+        "normalized_name": "Pasar Ubud",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/238194819",
+        "best_ref_query": "Pasar Ubud",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M039"
+        ]
+      },
+      "E021": {
+        "original_entity_id": "E020",
+        "normalized_name": "Puri Saren Agung;Ubud Palace",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/284575978",
+        "best_ref_query": "Ubud Palace",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M040",
+          "M042"
+        ]
+      },
+      "E022": {
+        "original_entity_id": "E021",
+        "normalized_name": "Building",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/way/284575978",
+        "best_ref_query": "Ubud Palace",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M041"
+        ]
+      },
+      "E023": {
+        "original_entity_id": "E022",
+        "normalized_name": "Ubud Monkey Forest Road;Jalan Monkey Forest",
+        "entity_type_merged": "LINE",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/1090921320",
+        "best_ref_query": "Jalan Monkey Forest",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M043"
+        ]
+      },
+      "E024": {
+        "original_entity_id": "E023",
+        "normalized_name": "カフェ",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M044",
+          "M045",
+          "M046"
+        ]
+      },
+      "E025": {
+        "original_entity_id": "E024",
+        "normalized_name": "Java",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/9444963",
+        "best_ref_query": "Java",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M047"
+        ]
+      },
+      "E026": {
+        "original_entity_id": "E025",
+        "normalized_name": "Borobudur",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/122741626",
+        "best_ref_query": "Borobudur",
+        "best_ref_area_type": "FOREIGN",
+        "second_A_ref_type": "OSM",
+        "second_A_ref_url": "https://www.openstreetmap.org/relation/6979165",
+        "second_A_ref_query": "Borobudur",
+        "second_A_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M048"
+        ]
+      },
+      "E027": {
+        "original_entity_id": "E026",
+        "normalized_name": "Prambanan Temple Compounds",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/1264832884",
+        "best_ref_query": "Prambanan",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M049"
+        ]
+      },
+      "E028": {
+        "original_entity_id": "E027",
+        "normalized_name": "遺跡",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M050"
+        ]
+      },
+      "E029": {
+        "original_entity_id": "E028",
+        "normalized_name": "Serangan Island;Turtle Island",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/7789829",
+        "best_ref_query": "Serangan Island Bali",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M051",
+          "M052"
+        ]
+      },
+      "E030": {
+        "original_entity_id": "E029",
+        "normalized_name": "Singapore Changi Airport",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/174037464",
+        "best_ref_query": "チャンギ国際空港",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M055",
+          "M056"
+        ]
+      }
+    }
+  }
+}

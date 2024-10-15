@@ -1,0 +1,1743 @@
+{
+  "01090": {
+    "sections": {
+      "001": {
+        "sentence_ids": [
+          "001-01",
+          "001-02",
+          "001-03"
+        ]
+      },
+      "002": {
+        "sentence_ids": [
+          "002-01",
+          "002-02"
+        ]
+      },
+      "003": {
+        "sentence_ids": [
+          "003-01",
+          "003-02"
+        ]
+      },
+      "004": {
+        "sentence_ids": [
+          "004-01",
+          "004-02"
+        ]
+      },
+      "005": {
+        "sentence_ids": [
+          "005-01"
+        ]
+      },
+      "006": {
+        "sentence_ids": [
+          "006-01",
+          "006-02",
+          "006-03"
+        ]
+      },
+      "007": {
+        "sentence_ids": [
+          "007-01",
+          "007-02"
+        ]
+      },
+      "008": {
+        "sentence_ids": [
+          "008-01",
+          "008-02",
+          "008-03",
+          "008-04"
+        ]
+      },
+      "009": {
+        "sentence_ids": [
+          "009-01",
+          "009-02",
+          "009-03"
+        ]
+      },
+      "010": {
+        "sentence_ids": [
+          "010-01",
+          "010-02",
+          "010-03"
+        ]
+      },
+      "011": {
+        "sentence_ids": [
+          "011-01"
+        ]
+      },
+      "012": {
+        "sentence_ids": [
+          "012-01",
+          "012-02"
+        ]
+      },
+      "013": {
+        "sentence_ids": [
+          "013-01",
+          "013-02",
+          "013-03",
+          "013-04",
+          "013-05"
+        ]
+      },
+      "014": {
+        "sentence_ids": [
+          "014-01",
+          "014-02"
+        ]
+      },
+      "015": {
+        "sentence_ids": [
+          "015-01",
+          "015-02"
+        ]
+      },
+      "016": {
+        "sentence_ids": [
+          "016-01",
+          "016-02"
+        ]
+      },
+      "017": {
+        "sentence_ids": [
+          "017-01",
+          "017-02",
+          "017-03"
+        ]
+      },
+      "018": {
+        "sentence_ids": [
+          "018-01",
+          "018-02"
+        ]
+      },
+      "019": {
+        "sentence_ids": [
+          "019-01"
+        ]
+      },
+      "020": {
+        "sentence_ids": [
+          "020-01",
+          "020-02",
+          "020-03",
+          "020-04"
+        ]
+      },
+      "021": {
+        "sentence_ids": [
+          "021-01",
+          "021-02"
+        ]
+      }
+    },
+    "sentences": {
+      "001-01": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          0,
+          11
+        ],
+        "text": "",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "001-02": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          11,
+          22
+        ],
+        "text": "",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "001-03": {
+        "section_id": "001",
+        "span_in_orig_text": [
+          22,
+          57
+        ],
+        "text": "",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "002-01": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          0,
+          23
+        ],
+        "text": "",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "002-02": {
+        "section_id": "002",
+        "span_in_orig_text": [
+          23,
+          46
+        ],
+        "text": "",
+        "mention_ids": [
+          "M011",
+          "M012"
+        ]
+      },
+      "003-01": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          0,
+          21
+        ],
+        "text": "",
+        "mention_ids": [
+          "M013",
+          "M014"
+        ]
+      },
+      "003-02": {
+        "section_id": "003",
+        "span_in_orig_text": [
+          21,
+          73
+        ],
+        "text": "",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "004-01": {
+        "section_id": "004",
+        "span_in_orig_text": [
+          0,
+          14
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "004-02": {
+        "section_id": "004",
+        "span_in_orig_text": [
+          14,
+          35
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "005-01": {
+        "section_id": "005",
+        "span_in_orig_text": [
+          0,
+          19
+        ],
+        "text": "",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "006-01": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          0,
+          12
+        ],
+        "text": "",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "006-02": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          12,
+          23
+        ],
+        "text": "",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "006-03": {
+        "section_id": "006",
+        "span_in_orig_text": [
+          23,
+          37
+        ],
+        "text": "",
+        "mention_ids": [
+          "M020",
+          "M021"
+        ]
+      },
+      "007-01": {
+        "section_id": "007",
+        "span_in_orig_text": [
+          0,
+          6
+        ],
+        "text": "",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "007-02": {
+        "section_id": "007",
+        "span_in_orig_text": [
+          6,
+          27
+        ],
+        "text": "",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "008-01": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          0,
+          22
+        ],
+        "text": "",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027"
+        ]
+      },
+      "008-02": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          22,
+          61
+        ],
+        "text": "",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032"
+        ]
+      },
+      "008-03": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          61,
+          84
+        ],
+        "text": "",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "008-04": {
+        "section_id": "008",
+        "span_in_orig_text": [
+          84,
+          109
+        ],
+        "text": "",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "009-01": {
+        "section_id": "009",
+        "span_in_orig_text": [
+          0,
+          13
+        ],
+        "text": "",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "009-02": {
+        "section_id": "009",
+        "span_in_orig_text": [
+          13,
+          40
+        ],
+        "text": "",
+        "mention_ids": [
+          "M036"
+        ]
+      },
+      "009-03": {
+        "section_id": "009",
+        "span_in_orig_text": [
+          40,
+          76
+        ],
+        "text": "",
+        "mention_ids": [
+          "M037",
+          "M038",
+          "M039"
+        ]
+      },
+      "010-01": {
+        "section_id": "010",
+        "span_in_orig_text": [
+          0,
+          8
+        ],
+        "text": "",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "010-02": {
+        "section_id": "010",
+        "span_in_orig_text": [
+          8,
+          26
+        ],
+        "text": "",
+        "mention_ids": [
+          "M041"
+        ]
+      },
+      "010-03": {
+        "section_id": "010",
+        "span_in_orig_text": [
+          26,
+          42
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "011-01": {
+        "section_id": "011",
+        "span_in_orig_text": [
+          0,
+          6
+        ],
+        "text": "",
+        "mention_ids": [
+          "M042"
+        ]
+      },
+      "012-01": {
+        "section_id": "012",
+        "span_in_orig_text": [
+          0,
+          14
+        ],
+        "text": "",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "012-02": {
+        "section_id": "012",
+        "span_in_orig_text": [
+          14,
+          39
+        ],
+        "text": "",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "013-01": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          0,
+          15
+        ],
+        "text": "",
+        "mention_ids": [
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "013-02": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          15,
+          36
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "013-03": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          36,
+          54
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "013-04": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          54,
+          80
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "013-05": {
+        "section_id": "013",
+        "span_in_orig_text": [
+          80,
+          94
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "014-01": {
+        "section_id": "014",
+        "span_in_orig_text": [
+          0,
+          6
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "014-02": {
+        "section_id": "014",
+        "span_in_orig_text": [
+          6,
+          32
+        ],
+        "text": "",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "015-01": {
+        "section_id": "015",
+        "span_in_orig_text": [
+          0,
+          5
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "015-02": {
+        "section_id": "015",
+        "span_in_orig_text": [
+          5,
+          23
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "016-01": {
+        "section_id": "016",
+        "span_in_orig_text": [
+          0,
+          14
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "016-02": {
+        "section_id": "016",
+        "span_in_orig_text": [
+          14,
+          31
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "017-01": {
+        "section_id": "017",
+        "span_in_orig_text": [
+          0,
+          24
+        ],
+        "text": "",
+        "mention_ids": [
+          "M050",
+          "M051"
+        ]
+      },
+      "017-02": {
+        "section_id": "017",
+        "span_in_orig_text": [
+          24,
+          44
+        ],
+        "text": "",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "017-03": {
+        "section_id": "017",
+        "span_in_orig_text": [
+          44,
+          63
+        ],
+        "text": "",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "018-01": {
+        "section_id": "018",
+        "span_in_orig_text": [
+          0,
+          22
+        ],
+        "text": "",
+        "mention_ids": [
+          "M054",
+          "M055"
+        ]
+      },
+      "018-02": {
+        "section_id": "018",
+        "span_in_orig_text": [
+          22,
+          56
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "019-01": {
+        "section_id": "019",
+        "span_in_orig_text": [
+          0,
+          16
+        ],
+        "text": "",
+        "mention_ids": [
+          "M056"
+        ]
+      },
+      "020-01": {
+        "section_id": "020",
+        "span_in_orig_text": [
+          0,
+          17
+        ],
+        "text": "",
+        "mention_ids": [
+          "M057"
+        ]
+      },
+      "020-02": {
+        "section_id": "020",
+        "span_in_orig_text": [
+          17,
+          68
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "020-03": {
+        "section_id": "020",
+        "span_in_orig_text": [
+          68,
+          94
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "020-04": {
+        "section_id": "020",
+        "span_in_orig_text": [
+          94,
+          120
+        ],
+        "text": "",
+        "mention_ids": []
+      },
+      "021-01": {
+        "section_id": "021",
+        "span_in_orig_text": [
+          0,
+          10
+        ],
+        "text": "",
+        "mention_ids": [
+          "M058",
+          "M059"
+        ]
+      },
+      "021-02": {
+        "section_id": "021",
+        "span_in_orig_text": [
+          10,
+          22
+        ],
+        "text": "",
+        "mention_ids": [
+          "M060"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001-01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E001"
+      },
+      "M002": {
+        "sentence_id": "001-01",
+        "span": [
+          5,
+          8
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E002"
+      },
+      "M003": {
+        "sentence_id": "001-02",
+        "span": [
+          2,
+          4
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E003"
+      },
+      "M004": {
+        "sentence_id": "001-02",
+        "span": [
+          5,
+          8
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E003"
+      },
+      "M005": {
+        "sentence_id": "001-03",
+        "span": [
+          11,
+          13
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E004"
+      },
+      "M006": {
+        "sentence_id": "001-03",
+        "span": [
+          24,
+          27
+        ],
+        "text": "",
+        "entity_type": "LOC_OR_FAC",
+        "entity_id": "E005"
+      },
+      "M007": {
+        "sentence_id": "001-03",
+        "span": [
+          28,
+          30
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": null,
+        "generic": true
+      },
+      "M008": {
+        "sentence_id": "002-01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E003"
+      },
+      "M009": {
+        "sentence_id": "002-01",
+        "span": [
+          4,
+          12
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E006"
+      },
+      "M010": {
+        "sentence_id": "002-01",
+        "span": [
+          14,
+          16
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M011": {
+        "sentence_id": "002-02",
+        "span": [
+          5,
+          7
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E001"
+      },
+      "M012": {
+        "sentence_id": "002-02",
+        "span": [
+          13,
+          14
+        ],
+        "text": "",
+        "entity_type": "LOC_OR_FAC",
+        "entity_id": "E005"
+      },
+      "M013": {
+        "sentence_id": "003-01",
+        "span": [
+          0,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E007"
+      },
+      "M014": {
+        "sentence_id": "003-01",
+        "span": [
+          16,
+          18
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E008"
+      },
+      "M015": {
+        "sentence_id": "003-02",
+        "span": [
+          16,
+          17
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E009"
+      },
+      "M016": {
+        "sentence_id": "005-01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E010"
+      },
+      "M017": {
+        "sentence_id": "005-01",
+        "span": [
+          11,
+          16
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E011"
+      },
+      "M018": {
+        "sentence_id": "006-01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M019": {
+        "sentence_id": "006-02",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E001"
+      },
+      "M020": {
+        "sentence_id": "006-03",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": "E012"
+      },
+      "M021": {
+        "sentence_id": "006-03",
+        "span": [
+          6,
+          11
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E013"
+      },
+      "M022": {
+        "sentence_id": "007-01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E014"
+      },
+      "M023": {
+        "sentence_id": "007-02",
+        "span": [
+          2,
+          9
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E015"
+      },
+      "M024": {
+        "sentence_id": "007-02",
+        "span": [
+          10,
+          12
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E016"
+      },
+      "M025": {
+        "sentence_id": "008-01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E014"
+      },
+      "M026": {
+        "sentence_id": "008-01",
+        "span": [
+          4,
+          6
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M027": {
+        "sentence_id": "008-01",
+        "span": [
+          10,
+          18
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E017"
+      },
+      "M028": {
+        "sentence_id": "008-02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "DEICTIC",
+        "entity_id": "E017"
+      },
+      "M029": {
+        "sentence_id": "008-02",
+        "span": [
+          7,
+          8
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M030": {
+        "sentence_id": "008-02",
+        "span": [
+          15,
+          21
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E018"
+      },
+      "M031": {
+        "sentence_id": "008-02",
+        "span": [
+          22,
+          25
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E019"
+      },
+      "M032": {
+        "sentence_id": "008-02",
+        "span": [
+          26,
+          32
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E019"
+      },
+      "M033": {
+        "sentence_id": "008-03",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M034": {
+        "sentence_id": "008-04",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "TRANS_GENERAL",
+        "entity_id": null
+      },
+      "M035": {
+        "sentence_id": "009-01",
+        "span": [
+          0,
+          12
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E020"
+      },
+      "M036": {
+        "sentence_id": "009-02",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M037": {
+        "sentence_id": "009-03",
+        "span": [
+          2,
+          3
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M038": {
+        "sentence_id": "009-03",
+        "span": [
+          4,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E020"
+      },
+      "M039": {
+        "sentence_id": "009-03",
+        "span": [
+          18,
+          19
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M040": {
+        "sentence_id": "010-01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E021"
+      },
+      "M041": {
+        "sentence_id": "010-02",
+        "span": [
+          0,
+          1
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E021"
+      },
+      "M042": {
+        "sentence_id": "011-01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E022"
+      },
+      "M043": {
+        "sentence_id": "012-01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E023"
+      },
+      "M044": {
+        "sentence_id": "012-01",
+        "span": [
+          5,
+          13
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E024"
+      },
+      "M045": {
+        "sentence_id": "012-02",
+        "span": [
+          4,
+          6
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": null,
+        "generic": true
+      },
+      "M046": {
+        "sentence_id": "013-01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E023"
+      },
+      "M047": {
+        "sentence_id": "013-01",
+        "span": [
+          5,
+          7
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E024"
+      },
+      "M048": {
+        "sentence_id": "013-01",
+        "span": [
+          8,
+          11
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E025"
+      },
+      "M049": {
+        "sentence_id": "014-02",
+        "span": [
+          10,
+          15
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E026"
+      },
+      "M050": {
+        "sentence_id": "017-01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E027"
+      },
+      "M051": {
+        "sentence_id": "017-01",
+        "span": [
+          8,
+          14
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E028"
+      },
+      "M052": {
+        "sentence_id": "017-02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E008"
+      },
+      "M053": {
+        "sentence_id": "017-03",
+        "span": [
+          6,
+          8
+        ],
+        "text": "",
+        "entity_type": "FAC_GENERAL",
+        "entity_id": "E008"
+      },
+      "M054": {
+        "sentence_id": "018-01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E027"
+      },
+      "M055": {
+        "sentence_id": "018-01",
+        "span": [
+          7,
+          21
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E029"
+      },
+      "M056": {
+        "sentence_id": "019-01",
+        "span": [
+          6,
+          8
+        ],
+        "text": "",
+        "entity_type": "LINE_GENERAL",
+        "entity_id": null,
+        "ref_spec_amb": true
+      },
+      "M057": {
+        "sentence_id": "020-01",
+        "span": [
+          7,
+          9
+        ],
+        "text": "",
+        "entity_type": "FAC_NAME",
+        "entity_id": "E030"
+      },
+      "M058": {
+        "sentence_id": "021-01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E026"
+      },
+      "M059": {
+        "sentence_id": "021-01",
+        "span": [
+          6,
+          9
+        ],
+        "text": "",
+        "entity_type": "LOC_NAME",
+        "entity_id": "E031"
+      },
+      "M060": {
+        "sentence_id": "021-02",
+        "span": [
+          7,
+          8
+        ],
+        "text": "",
+        "entity_type": "LOC_GENERAL",
+        "entity_id": "E032"
+      }
+    },
+    "entities": {
+      "E001": {
+        "original_entity_id": "E001",
+        "normalized_name": "Penang Island",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/12272811",
+        "best_ref_query": "Penang Island",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M001",
+          "M011",
+          "M019"
+        ]
+      },
+      "E002": {
+        "original_entity_id": "E002",
+        "normalized_name": "ホテル",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M002"
+        ]
+      },
+      "E003": {
+        "original_entity_id": "E003",
+        "normalized_name": "Tun Abdul Razak Complex;Komtar",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/993213417",
+        "best_ref_query": "Komtar",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M003",
+          "M004",
+          "M008"
+        ]
+      },
+      "E004": {
+        "original_entity_id": "E004",
+        "normalized_name": "建物",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M005"
+        ]
+      },
+      "E005": {
+        "original_entity_id": "E005",
+        "normalized_name": "場",
+        "entity_type_merged": "UNK",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M006",
+          "M012"
+        ]
+      },
+      "E006": {
+        "original_entity_id": "E006",
+        "normalized_name": "Komtar Bus Terminal",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/608415496",
+        "best_ref_query": "<MAP>",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M009"
+        ]
+      },
+      "E007": {
+        "original_entity_id": "E007",
+        "normalized_name": "Fort Cornwallis",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/5827552",
+        "best_ref_query": "Fort Cornwallis",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M013"
+        ]
+      },
+      "E008": {
+        "original_entity_id": "E008",
+        "normalized_name": "Esplanade Park Food Court",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/268528823",
+        "best_ref_query": "Esplanade Park Food Court",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M014",
+          "M052",
+          "M053"
+        ]
+      },
+      "E009": {
+        "original_entity_id": "E009",
+        "normalized_name": "Restaurant",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/way/268528823",
+        "best_ref_query": "Esplanade Park Food Court",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M015"
+        ]
+      },
+      "E010": {
+        "original_entity_id": "E010",
+        "normalized_name": "Chayamangkalaram Buddhist Temple",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/384532302",
+        "best_ref_query": "Chayamangakalaram Temple",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M016"
+        ]
+      },
+      "E011": {
+        "original_entity_id": "E011",
+        "normalized_name": "Dhammikarama Burmese Temple",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/384532303",
+        "best_ref_query": "<MAP>",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M017"
+        ]
+      },
+      "E012": {
+        "original_entity_id": "E012",
+        "normalized_name": "Penang Bridge",
+        "entity_type_merged": "LINE",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/601267471",
+        "best_ref_query": "Penang Bridge",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M020"
+        ]
+      },
+      "E013": {
+        "original_entity_id": "E013",
+        "normalized_name": "Malay Peninsula",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/9743343761",
+        "best_ref_query": "Malay Peninsula",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M021"
+        ]
+      },
+      "E014": {
+        "original_entity_id": "E014",
+        "normalized_name": "Federal Territory of Kuala Lumpur;Kuala Lumpur",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/2939672",
+        "best_ref_query": "Kuala Lumpur",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M022",
+          "M025"
+        ]
+      },
+      "E015": {
+        "original_entity_id": "E015",
+        "normalized_name": "Petaling Street;Chinatown",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/446256442",
+        "best_ref_query": "Petaling Street",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M023"
+        ]
+      },
+      "E016": {
+        "original_entity_id": "E016",
+        "normalized_name": "Stall",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/way/446256442",
+        "best_ref_query": "Petaling Street",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M024"
+        ]
+      },
+      "E017": {
+        "original_entity_id": "E017",
+        "normalized_name": "Kuala Tembeling",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/254074318",
+        "best_ref_query": "Kuala Tembeling",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M027",
+          "M028"
+        ]
+      },
+      "E018": {
+        "original_entity_id": "E018",
+        "normalized_name": "Taman Negara",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/2790347",
+        "best_ref_query": "Taman Negara",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M030"
+        ]
+      },
+      "E019": {
+        "original_entity_id": "E019",
+        "normalized_name": "Kuala Tahan",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/768092895",
+        "best_ref_query": "Kuala Tahan",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "E020": {
+        "original_entity_id": "E020",
+        "normalized_name": "‎Taman Negara Floating Restaurant",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/768092936",
+        "best_ref_query": "<MAP>",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M035",
+          "M038"
+        ]
+      },
+      "E021": {
+        "original_entity_id": "E021",
+        "normalized_name": "オランアスリ村",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M040",
+          "M041"
+        ]
+      },
+      "E022": {
+        "original_entity_id": "E022",
+        "normalized_name": "博物館",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M042"
+        ]
+      },
+      "E023": {
+        "original_entity_id": "E023",
+        "normalized_name": "Malacca City",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/321322622",
+        "best_ref_query": "Malacca City",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M043",
+          "M046"
+        ]
+      },
+      "E024": {
+        "original_entity_id": "E024",
+        "normalized_name": "ナイトマーケット",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M044",
+          "M047"
+        ]
+      },
+      "E025": {
+        "original_entity_id": "E025",
+        "normalized_name": "寿司屋",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": false,
+        "member_mention_ids": [
+          "M048"
+        ]
+      },
+      "E026": {
+        "original_entity_id": "E026",
+        "normalized_name": "Malaysia",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/2108121",
+        "best_ref_query": "Malaysia",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M049",
+          "M058"
+        ]
+      },
+      "E027": {
+        "original_entity_id": "E027",
+        "normalized_name": "Petronas Towers;Petronas Twin Towers",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/way/279944536",
+        "best_ref_query": "Petronas Towers",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M050",
+          "M054"
+        ]
+      },
+      "E028": {
+        "original_entity_id": "E028",
+        "normalized_name": "Food court",
+        "entity_type_merged": "FAC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM_PARTOF",
+        "best_ref_url": "https://www.openstreetmap.org/way/279944536",
+        "best_ref_query": "Petronas Towers",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M051"
+        ]
+      },
+      "E029": {
+        "original_entity_id": "E029",
+        "normalized_name": "Mandarin Oriental Kuala Lumpur",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/5792437253",
+        "best_ref_query": "Mandarin Oriental Kuala Lumpur",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M055"
+        ]
+      },
+      "E030": {
+        "original_entity_id": "E030",
+        "normalized_name": "Koon Kee",
+        "entity_type_merged": "FAC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/node/5662785321",
+        "best_ref_query": "Koon Kee",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M057"
+        ]
+      },
+      "E031": {
+        "original_entity_id": "E031",
+        "normalized_name": "霞が関",
+        "entity_type_merged": "LOC",
+        "has_name": true,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/3788300",
+        "best_ref_query": "霞が関",
+        "best_ref_area_type": "JAPAN",
+        "member_mention_ids": [
+          "M059"
+        ]
+      },
+      "E032": {
+        "original_entity_id": "E032",
+        "normalized_name": "Federal Territory of Putrajaya;Putrajaya",
+        "entity_type_merged": "LOC",
+        "has_name": false,
+        "has_reference": true,
+        "best_ref_type": "OSM",
+        "best_ref_url": "https://www.openstreetmap.org/relation/4443881",
+        "best_ref_query": "Putrajaya",
+        "best_ref_area_type": "FOREIGN",
+        "member_mention_ids": [
+          "M060"
+        ]
+      }
+    }
+  }
+}
