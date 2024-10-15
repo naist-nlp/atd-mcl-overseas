@@ -52,7 +52,7 @@ def read_and_write(
 
     fw1 = open(output_tsv1_path, 'w', encoding='utf-8')
     fw2 = open(output_tsv2_path, 'w', encoding='utf-8')
-    fw2.write(f'#document_id\tentity_id\tmention_id\t{BEST_REF_TYPE}\t{BEST_REF_URL}\t{BEST_REF_QUERY}\t{BEST_REF_STAT}\t{BEST_REF_AREA}\t{SEC_A_REF_TYPE}\t{SEC_A_REF_URL}\t{SEC_A_REF_QUERY}\t{SEC_A_REF_STAT}\t{SEC_A_REF_AREA}\t{SEC_B_REF_TYPE}\t{SEC_B_REF_URL}\t{SEC_B_REF_QUERY}\t{SEC_A_REF_STAT}\t{SEC_B_REF_AREA}\t{ENT_TYPE}\t{SPAN}\t{NORM_NAME}\tmention_text\t{HIE_AMB}\t{SEN_ID}\tsentence_text\n')
+    fw2.write(f'#document_id\tentity_id\tmention_id\t{BEST_REF_TYPE}\t{BEST_REF_URL}\t{BEST_REF_QUERY}\t{BEST_REF_STAT}\t{BEST_REF_AREA}\t{SEC_A_REF_TYPE}\t{SEC_A_REF_URL}\t{SEC_A_REF_QUERY}\t{SEC_A_REF_STAT}\t{SEC_A_REF_AREA}\t{SEC_B_REF_TYPE}\t{SEC_B_REF_URL}\t{SEC_B_REF_QUERY}\t{SEC_B_REF_STAT}\t{SEC_B_REF_AREA}\t{ENT_TYPE}\t{SPAN}\t{NORM_NAME}\tmention_text\t{HIE_AMB}\t{SEN_ID}\tsentence_text\n')
 
     for doc_id, doc in data.items():
         sentences = doc[SENS]
@@ -99,7 +99,7 @@ def read_and_write(
             s_a_os = 'overseas' if SEC_A_REF_AREA in ent and ent[SEC_A_REF_AREA] else ''
             s_b_os = 'overseas' if SEC_B_REF_AREA in ent and ent[SEC_B_REF_AREA] else ''
 
-            fw2.write(f'{doc_id}\t{ent_id}\t-\t{b_type}\t{b_url}\t{b_que}\t{b_sta}\t{b_os}\t{s_a_type}\t{s_a_url}\t{s_a_que}\t{s_a_os}\t{s_b_type}\t{s_b_url}\t{s_b_que}\t{s_b_sta}\t{s_b_os}\t{ent_type}\t-\t{norm_name}\t-\t-\n')
+            fw2.write(f'{doc_id}\t{ent_id}\t-\t{b_type}\t{b_url}\t{b_que}\t{b_sta}\t{b_os}\t{s_a_type}\t{s_a_url}\t{s_a_que}\t{s_a_sta}\t{s_a_os}\t{s_b_type}\t{s_b_url}\t{s_b_que}\t{s_b_sta}\t{s_b_os}\t{ent_type}\t-\t{norm_name}\t-\t-\t-\t-\n')
 
             for men_id in ent[MEM_MEN_IDS]:
                 men         = mentions[men_id]
