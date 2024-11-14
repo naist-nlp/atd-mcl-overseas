@@ -140,7 +140,7 @@ The JSON data (`atd-mcl-overseas/full/main/split-*/json` and `atd-mcl-overseas/f
       },
     ~~~~
 
-### Mention TSV Data Format (tmp)
+### Mention TSV Data Format
 
 The mention TSV data (`atd-mcl-overseas/full/main/mention_tsv_per_doc`) holds mention-related annotation information as follows.
 
