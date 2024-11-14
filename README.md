@@ -182,10 +182,6 @@ Notes:
 
 See `docs/data_specification`.
 
-## License
-
-TBA
-
 ## Contact
 
 - Shohei Higashiyama <shohei.higashiyama [at] nict.go.jp>
@@ -193,7 +189,10 @@ TBA
 ## Acknowledgements
 
 This study was partly supported by JSPS KAKENHI Grant Number JP22H03648.
+
 The annotation data was constructed by [IR-Advanced Linguistic Technologies Inc.](https://ir-alt.co.jp/)
+
+This data is the extension of [atd-mcl-overseas-alpha](https://github.com/shigashiyama/atd-mcl-overseas-alpha), with added entity link annotations.
 
 ## Citation
 
