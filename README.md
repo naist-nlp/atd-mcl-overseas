@@ -7,7 +7,7 @@ Requirements: Python >= 3.8.0
 1. Obtain the Arukikata Travelogue Dataset (ATD) original data (`data.zip`) from the NII IDR site <https://www.nii.ac.jp/dsc/idr/arukikata/>.
 1. Decompress `data.zip` and then move `data` directory to under `atd` directory (or create a symbolic link to `data` directory in `atd` directory).
 1. Excute `bin/gen_full_data_json.sh`.
-    - The restored data will be placed at `atd-mcl-overseas/full/main/json_per_doc/` and `atd-mcl-overseas/full/main/split-*/json`.
+    - The restored data will be placed at `atd-mcl-overseas/full/main/json_per_doc/`.
     - The data used for calculating inter-annotator aggreement scores will be placed at `atd-mcl-overseas/full/agreement/`.
 1. Excute `bin/gen_full_data_tsv.sh`.
     - The restored data will be placed at `atd-mcl-overseas/full/main/link_tsv_per_doc` and `atd-mcl-overseas/full/main/mention_tsv_per_doc`.
@@ -31,7 +31,7 @@ This can be obtained by excuting the following command.
 
 ### JSON Data Format
 
-The JSON data (`atd-mcl-overseas/full/main/split-*/json` and `atd-mcl-overseas/full/main/json_per_doc`) holds full annotation information as follows.
+The JSON data (`atd-mcl-overseas/full/main/json_per_doc`) holds full annotation information as follows.
 
 - A document object value is assosiated with a key that represents the  document ID (e.g., `00019`). Each document object has the sets of `sections`, `sentences`, `mentions`, and `entities`.
    ~~~~
