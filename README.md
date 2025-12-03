@@ -1,15 +1,15 @@
-# ATD-MCL-Overseas: Overseas Travelogues from Arukikata Travelogue Dataset with Geographic Entity Mention, Coreference, and Link Annotation
+# ATD-MCL-Overseas: Overseas Travelogues from NAIST Academic Travelogue Dataset with Geographic Entity Mention, Coreference, and Link Annotation
 
 ## How to Restore the ATD-MCL-Overseas Data
 
 Requirements: Python >= 3.8.0
 
-1. Obtain the Arukikata Travelogue Dataset (ATD) original data (`data.zip`) from the NII IDR site <https://www.nii.ac.jp/dsc/idr/arukikata/>.
+1. Obtain the NAIST Academic Travelogue Dataset (ATD) original data (`data.zip`) from the site <https://sites.google.com/view/geography-and-language/resources>.
 1. Decompress `data.zip` and then move `data` directory to under `atd` directory (or create a symbolic link to `data` directory in `atd` directory).
-1. Excute `bin/gen_full_data_json.sh`.
+1. Execute `bin/gen_full_data_json.sh`.
     - The restored data will be placed at `atd-mcl-overseas/full/main/json_per_doc/`.
-    - The data used for calculating inter-annotator aggreement scores will be placed at `atd-mcl-overseas/full/agreement/`.
-1. Excute `bin/gen_full_data_tsv.sh`.
+    - The data used for calculating inter-annotator agreement scores will be placed at `atd-mcl-overseas/full/agreement/`.
+1. Execute `bin/gen_full_data_tsv.sh`.
     - The restored data will be placed at `atd-mcl-overseas/full/main/link_tsv_per_doc` and `atd-mcl-overseas/full/main/mention_tsv_per_doc`.
 
 ## Data Statistics
@@ -24,7 +24,7 @@ Requirements: Python >= 3.8.0
 |Entity             |  2,263|
 |Entity w/ OSM link |  1,361|
 
-This can be obtained by excuting the following command.
+This can be obtained by executing the following command.
 - `python src/show_data_statistics.py -i atd-mcl-overseas/full/main/json_per_doc/`.
 
 ## Data Format
@@ -33,7 +33,7 @@ This can be obtained by excuting the following command.
 
 The JSON data (`atd-mcl-overseas/full/main/json_per_doc`) holds full annotation information as follows.
 
-- A document object value is assosiated with a key that represents the  document ID (e.g., `00019`). Each document object has the sets of `sections`, `sentences`, `mentions`, and `entities`.
+- A document object value is associated with a key that represents the  document ID (e.g., `00019`). Each document object has the sets of `sections`, `sentences`, `mentions`, and `entities`.
    ~~~~
     {
       "00711": {
@@ -175,8 +175,8 @@ Example:
 |00711|-|E001:M001|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|LOC_NAME|0:3|-|パラオ||001:001-01|パラオではオプショナルツアーに参加しないとほとんど観光できません。|
 
 Notes:
-- `mention_id` column values acutally represent "entity_id:mention_id".
-- `sentence_id` column values acutally represent "section_id:sentence_id".
+- `mention_id` column values represent "entity_id:mention_id".
+- `sentence_id` column values represent "section_id:sentence_id".
 
 ## Detailed Data Specification
 
